@@ -15,3 +15,14 @@
 .btn:active {
     background-color: #B383E6;
     color: white;}
+.btn.section {
+    background-color: #B383E6;
+    color: white;
+    align-items: center;}
+.btn.section:hover {
+    background-color: white;
+    color: #590cc4;}
+.btn.section:active {
+    background-color: white;
+    color: #590cc4;}
+    
