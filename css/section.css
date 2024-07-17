@@ -1,0 +1,21 @@
+.section {
+    display: flex;
+    flex-direction: row;
+    border-top: 1px solid;
+    justify-content: center;
+    gap: 100px;
+    border-top-color: rgba(128, 128, 128, 1);}
+.text_zone {
+    display: flex;
+    flex-direction: column;
+    margin-left: 100px;
+    margin-top: 70px;
+    justify-content: space-around ;
+    align-items: normal ;
+    margin-bottom: 70px;}
+.img {
+    width: 400px;
+    height: 440px;
+    margin-right: 100px;
+    margin-top: 50px;
+    margin-bottom: 50px;}
