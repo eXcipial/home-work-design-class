@@ -1,0 +1,9 @@
+.footer {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start ;
+    justify-content: center;
+    gap: 100px;
+    margin-top: 70px;
+    margin-bottom: 70px;
+    background-image: url('../img/image.webp');}

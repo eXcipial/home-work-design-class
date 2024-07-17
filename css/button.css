@@ -16,7 +16,7 @@
     background-color: #B383E6;
     color: white;}
 .btn.section {
-    background-color: #B383E6;
+    background-color: #8F46DE;
     color: white;
     align-items: center;}
 .btn.section:hover {
@@ -25,4 +25,8 @@
 .btn.section:active {
     background-color: white;
     color: #590cc4;}
-    
+.btn2 {
+    width: 175px;
+    height: 60px;
+    background-color: #D7BFF3;
+}   
