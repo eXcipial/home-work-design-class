@@ -30,3 +30,7 @@
     height: 60px;
     background-color: #D7BFF3;
 }   
+.btn2:active {
+    background-color: violet;}
+.btn2:hover {
+    background-color: violet;}

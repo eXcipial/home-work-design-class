@@ -12,10 +12,22 @@
 .nav {
     display: flex;
     gap: 20px;
-    text-decoration: none;
-    }
+    text-decoration: none;}
+.nav.bord   {
+    border-right: 2px;
+    border-color: gray;
+    border-left:0;
+    border-top: 0;
+    border-bottom: 0;
+    border-style: solid;
+    padding-right: 15px;}
+.nav:active {
+    color: black;}
+.nav:hover {
+    color: black;}
+
 .logo {
     width: 165px;
     height: 50px;
-    margin-right: 395px;}
+    margin-right: 345px;}
 
